@@ -36,9 +36,9 @@ Programmed June 17th 2004, after midnight until 2 o'clock.
 History
 -------
 
-Ver 1.2: SetDisplaysZombies and SetAllowsZombies set to true
-Ver 1.1: now saves its position
-Ver 1.0: works out of the box.
+* Ver 1.2: SetDisplaysZombies and SetAllowsZombies set to true
+* Ver 1.1: now saves its position
+* Ver 1.0: works out of the box.
 
 Contact: beos@herzig-net.de
 (C)2004 N3S
